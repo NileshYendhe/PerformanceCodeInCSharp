@@ -26,7 +26,7 @@ How to check the performance of C# code in the Microsoft's Visual Studio 2019
 * Steps
 * Clone this repository - $ git clone https://github.com/NileshYendhe/PerformanceCodeInCSharp.git
 * Go to the repository
-* Open the .sln file in the Visual Studio 2019
+* Open the .sln files in the Visual Studio 2019
 * Run the project
 
 ## Authors
